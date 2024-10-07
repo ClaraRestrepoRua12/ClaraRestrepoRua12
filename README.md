@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ✨Clara Restreo Rua✨</h1>
+<h1 align="center">Hi 👋, I'm ✨Clara Manuela Restreo Rua✨</h1>
 <h3 align="center">A frontend developer junior in constantly learning</h3>
 
 - 🌱 I’m currently learning **ReactJs, Python**
